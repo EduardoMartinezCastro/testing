@@ -1,5 +1,5 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter. this is a tests.
 fun main() {
 
     /*var array = arrayOf("Luis", "Mario")
